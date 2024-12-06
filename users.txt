@@ -1,0 +1,8 @@
+georgerussell,gr63,admin
+maxtraveler,mt33,Traveller
+tripletreehotel,33666,merchant,active
+globalstudio,88666,merchant,active
+selenachua,66,Traveller
+universalstudio,kl_trip_merchant,merchant,inactive
+tt,kl_trip_merchant,merchant,active
+mary,kl_trip_merchant,merchant,active
